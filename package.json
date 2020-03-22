@@ -1,10 +1,10 @@
 {
-    "name": "wemp-cli",
+    "name": "minip-cli",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "bin": {
-        "wemp": "./bin/wemp"
+        "minip": "./bin/minip"
     },
     "scripts": {
         "compile": "babel src -d dist"

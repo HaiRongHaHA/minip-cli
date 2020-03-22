@@ -5,7 +5,7 @@ import apply from "./index";
 let actionMap = {
     init: {
         description: "init a new project",
-        usages: ["wemp init <project-name>"]
+        usages: ["minip init <project-name>"]
     },
     "*": {
         desc: "The command is not found",

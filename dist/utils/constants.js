@@ -13,8 +13,8 @@ const HOME = process.env[process.platform === "win32" ? "USERPROFILE" : "HOME"];
 const VERSION = (exports.VERSION = _package.version);
 const UA = (exports.UA = _package.name);
 
-const TEMPLATENAME_DEFAULT = (exports.TEMPLATENAME_DEFAULT = "wemp-template");
-const RC = (exports.RC = `${HOME}/.wemprc`);
+const TEMPLATENAME_DEFAULT = (exports.TEMPLATENAME_DEFAULT = "minip-template");
+const RC = (exports.RC = `${HOME}/.miniprc`);
 
 const DEFAULTS = (exports.DEFAULTS = {
     registry: "HaiRongHaHA",

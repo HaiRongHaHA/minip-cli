@@ -1,4 +1,4 @@
-# wemp-cli
+# minip-cli
 
 > ## 项目简介
 
@@ -9,9 +9,9 @@
 > ## 如何使用？
 
 ```
-npm install wemp-cli
+npm install minip-cli
 
-wemp init <项目名>
+minip init <项目名>
 
 cd <项目名>
 
