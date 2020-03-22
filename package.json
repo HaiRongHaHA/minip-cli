@@ -1,10 +1,10 @@
 {
-    "name": "wep-cli",
+    "name": "wemp-cli",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "bin": {
-        "wep": "./bin/wep"
+        "wemp": "./bin/wemp"
     },
     "scripts": {
         "compile": "babel src -d dist"

@@ -1,4 +1,4 @@
-# wep-cli
+# wemp-cli
 
 > ## 项目简介
 
@@ -9,9 +9,9 @@
 > ## 如何使用？
 
 ```
-npm install wep-cli
+npm install wemp-cli
 
-wep init <项目名>
+wemp init <项目名>
 
 cd <项目名>
 
